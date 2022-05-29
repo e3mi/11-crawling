@@ -6,5 +6,5 @@
 학생 2 안성혁 : 네이버 주식 사이트에서 종목별 뉴스 크롤링 후 github에 업로드
 
 크롤링 할 사이트 : https://finance.naver.com/sise/sise_market_sum.naver?&page=
-크롤링 할 사이트 : https://finance.naver.com/item/news_news.nhn?code=
+
 
