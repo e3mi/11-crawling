@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1EJFdQEDPTDugSHVHOgxEoH219xyrz96k
 """
 
-import requests
+import request
 from bs4 import BeautifulSoup
 
 def return_value(address):
